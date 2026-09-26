@@ -18,7 +18,7 @@ def open_browser(url: str):
         action = ClickAction(
             action="click",
             arguments={
-                "element_ref": "e999",
+                "element_ref": "e5",
             },
         )
 
